@@ -11,3 +11,6 @@ Simple Java chess game using Java Swing.
 + Highlight legal movement
 + Detect checking king, checkmate and stalemate.
 
+## Lincences
+
+MIT
